@@ -105,4 +105,4 @@ for(let i = 0; i < stockExchange.length; i++){
     }
 }
 
-// Output was "13, 5, -5, 27".
+// Output was "13, 5, -5, 27" .

@@ -9,9 +9,9 @@ LinkedIn is the world's largest online professional networking community. An act
 
 Check the boxes below to certify that your LinkedIn contains:
 
-- [✅] professional profile picture (must be your actual face)
-- [✅] a headline that contains a reference to your career in web development
-- [✅] your last job listed in the experience section
-- [✅] your new educational experience at LEARN
-- [✅] at least ten professional connections
-- [✅] a post about your career transition
+- [ ✅]  professional profile picture (must be your actual face)
+- [ ✅ ] a headline that contains a reference to your career in web development
+- [ ✅ ] your last job listed in the experience section
+- [ ✅ ] your new educational experience at LEARN
+- [ ✅ ] at least ten professional connections
+- [ ✅ ] a post about your career transition

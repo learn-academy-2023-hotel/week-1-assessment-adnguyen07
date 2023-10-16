@@ -38,7 +38,7 @@ Researched answer: Abstraction, encapsulation, inheritance, and polymorphism.
 Abstraction is simplifying and organizing code in a more efficient manner.
 Encapsulation is combining code and data together to keep it more organized and less likely to be unintentionally changed.
 Inheritance is creating new classes of code based on already existing code in order that the new classes exhibit attributes similar to the parent class.
-Polymorphism is a type of abstraction that allows different classes of code to perform similar behavior.
+Polymorphism is a type of abstraction that allows different classes of code to perform similar behavior .
 
 
 ## Looking Ahead: Terms for Next Week

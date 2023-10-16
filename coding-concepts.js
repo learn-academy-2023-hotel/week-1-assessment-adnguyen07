@@ -52,4 +52,4 @@ const dataTypes = ["number", "string", "Boolean", "undefined"]
 // console.log(typeof dataTypes.length)
 
 // a) Your answer: number
-// b) Verify and explain: Typeof identifies a data type. Even though the values in the array are characters, the attached .length method will return a number.
+// b) Verify and explain: Typeof identifies a data type. Even though the values in the array are characters, the attached .length method will return a number .
